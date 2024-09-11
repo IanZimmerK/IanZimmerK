@@ -18,7 +18,7 @@ Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programació
 <a href="https://instagram.com/ianzimmermannk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40" /></a>
 
 <h3 align="left">Tecnologies:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalb09&show_icons=true&locale=en" alt="ujjwalb09" /></p>
 
