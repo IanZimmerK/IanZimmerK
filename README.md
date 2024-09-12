@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ian Zimmermann</h1>
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anushka Wijegoonawardana</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ian Zimmermann Kennedy /h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/IanZimmerK?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/IanZimmerK?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=IanZimmerK.repoName) <img src="https://komarev.com/ghpvc/?username=IanZimmerK" alt="AnushkaWijegoonawardana97" />
 
@@ -26,8 +24,6 @@ Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programació
 
 <br>
 
-<summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
-<br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IanZimmerK&show_icons=true&theme=dracula&locale=en&layout=compact" alt="IanZimmerK" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IanZimmerK&show_icons=true&locale=en" alt="IanZimmerK" /></p>
