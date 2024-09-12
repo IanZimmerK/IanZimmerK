@@ -15,6 +15,15 @@ Actualmente me encuentro aprendiendo y trabajando con C#, Node.js, MySQL, .NET, 
 <br>
 Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programación y buscando mejorar mis habilidades y experiencia en este mundo.
 
+```diff
+🛠️ Actually Studying.
++  ✔️ Responsible worker.
+#  👨‍💻 Information Technology Engineer (ITI).
+-  🚀 Optimizing web pages.
+!  ✨ If you can imagine it, you can program it. 
+@@ 💻Solving problems from a self-built computer.@@
+```
+
 
 <div align="center">
   
