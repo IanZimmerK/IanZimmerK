@@ -30,7 +30,6 @@ Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programació
 [![@ianzimmermannk_](https://img.icons8.com/fluency/48/000000/instagram-new.png "@ianzimmermannk_")](https://instagram.com/ianzimmermannk_) 
 [![@ianzimmermannkennedy](https://img.icons8.com/fluency/48/000000/facebook.png "@ianzimmermannk_")](https://www.facebook.com/ian.zimmermann.9/) 
 [![@ianzimmermannk_](https://img.icons8.com/fluency/48/000000/linkedin.png "@ianzimmermannk_")](https://www.linkedin.com/in/ianzimmermannk) 
-[![@+5493795139013](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@3795139013")](tel:+5493795139013) 
 [![@ianzimmermann18@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@ianzimmermann18@gmail.com")](ianzimmermann18@gmail.com)
 
 <br>
