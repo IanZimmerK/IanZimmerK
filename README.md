@@ -5,8 +5,9 @@
 
 ## About Me :
 
-Actualmente me encuentro aprendiendo y trabajando con C#, Node.js, MySQL, .NET, MONGODB, React y Phyton.
-Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programación y  buscando mejorar mis habilidades y experiencia en este mundo.
+Actualmente me encuentro aprendiendo y trabajando con C#, Node.js, MySQL, .NET, Mongo DB, React y Phyton.
+<br>
+Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programación y buscando mejorar mis habilidades y experiencia en este mundo.
 
 
 <div align="center">
