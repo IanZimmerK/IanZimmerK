@@ -20,6 +20,7 @@ Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programació
 [![@ianzimmermann18@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@ianzimmermann18@gmail.com")](ianzimmermann18@gmail.com)
 
 <br>
+
 ## What I am Good at 🧑‍💻 :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java,mysql,mongodb,nodejs,php,postman,py,react,tailwind&perline=5)](https://skillicons.dev)
 
