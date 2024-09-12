@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anirudh Rai</h1>
 
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-![GitHub followers](https://img.shields.io/github/followers/IanZimmerK?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/IanZimmerK?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=IanZimmerK.repoName) <img src="https://komarev.com/ghpvc/?username=IanZimmerK" alt="AnushkaWijegoonawardana97" />
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## About Me :
 
 Actualmente me encuentro aprendiendo y trabajando con C#, Node.js, MySQL, .NET, MONGODB, React y Phyton.
 Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programación y  buscando mejorar mis habilidades y experiencia en este mundo.
 
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 <br>
+
 
 ## Connect with me ☕ :
 
