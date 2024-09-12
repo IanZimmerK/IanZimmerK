@@ -24,6 +24,12 @@ Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programació
 ## What I am Good at 🧑‍💻 :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java,mysql,mongodb,nodejs,php,postman,py,react,tailwind&perline=5)](https://skillicons.dev)
 
+<br>
+
+<summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IanZimmerK&show_icons=true&theme=dracula&locale=en&layout=compact" alt="IanZimmerK" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IanZimmerK&show_icons=true&locale=en" alt="IanZimmerK" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IanZimmerK&" alt="IanZimmerK" /></p>
