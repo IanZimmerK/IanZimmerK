@@ -1,21 +1,16 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+IanZimmermann!;" />
 
-<h2>📖 | About me</h2> 
-🌐 With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.
-
-<div align="center">
 ## About Me :
 
 Actualmente me encuentro aprendiendo y trabajando con C#, Node.js, MySQL, .NET, MONGODB, React y Phyton.
 Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programación y  buscando mejorar mis habilidades y experiencia en este mundo.
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
+<div align="center">
 <br>
-
 
 ## Connect with me ☕ :
 
