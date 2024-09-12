@@ -24,7 +24,8 @@ Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programació
 
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IanZimmerK&show_icons=true&theme=dracula&locale=en&layout=compact" alt="IanZimmerK" /></p>
+## Stats :
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IanZimmerK&show_icons=true&theme=dracula&locale=en&layout=compact" alt="IanZimmerK" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IanZimmerK&show_icons=true&locale=en" alt="IanZimmerK" /></p>
 
