@@ -13,12 +13,6 @@ Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programació
 
 ## Connect with me ☕ :
 
-<p align="left">
-<a href="[https://www.linkedin.com/in/ianzimmermannk](https://www.linkedin.com/in/ianzimmermannk/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IanZimmermannKennedy" height="30" width="40" /></a>
-<a href="https://instagram.com/ianzimmermannk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ianzimmermannk_" height="30" width="40" /></a>
-
-<br>
-
 [![@ianzimmermannk_](https://img.icons8.com/fluency/48/000000/instagram-new.png "@ianzimmermannk_")](https://instagram.com/ianzimmermannk_) 
 [![@ianzimmermannkennedy](https://img.icons8.com/fluency/48/000000/facebook.png "@ianzimmermannk_")](https://www.facebook.com/ian.zimmermann.9/) 
 [![@ianzimmermannk_](https://img.icons8.com/fluency/48/000000/linkedin.png "@ianzimmermannk_")](https://www.linkedin.com/in/ianzimmermannk) 
