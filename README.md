@@ -1,5 +1,8 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ian Zimmermann Kennedy /h1>]\
-  
+<h1 align="center">Hi 👋, I'm Anirudh Rai</h1>
+
+
+
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/IanZimmerK?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/IanZimmerK?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=IanZimmerK.repoName) <img src="https://komarev.com/ghpvc/?username=IanZimmerK" alt="AnushkaWijegoonawardana97" />
