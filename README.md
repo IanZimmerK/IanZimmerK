@@ -29,4 +29,6 @@ Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programació
 
 </p><img src="https://github-readme-stats.vercel.app/api?username=IanZimmerK&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="IanZimmerK" /></p>
 
+<br>
+
 [![IanZimmerK's github activity graph](https://activity-graph.herokuapp.com/graph?username=IanZimmerK&bg_color=282a36&color=dd6387&line=dd6387&point=ffffff&area=true&hide_border=false)](https://github.com/IanZimmerK)
