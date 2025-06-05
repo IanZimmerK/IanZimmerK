@@ -10,7 +10,7 @@
 
 ## About Me :
 
-Actualmente me encuentro trabajando con C#, Node.js, MySQL, .NET, Mongo DB, React y Phyton.
+Actualmente me encuentro trabajando con React, Vite, Typesctipt + Java, SpringBoot & MySQL and Postgree
 <br>
 <br>
 Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programación y buscando mejorar mis habilidades y experiencia en este mundo.
