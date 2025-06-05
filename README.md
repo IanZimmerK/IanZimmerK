@@ -20,7 +20,6 @@ Estoy enfocado en aprender todo sobre Inteligencia Artificial en la programació
 +  ✔️ Responsible worker.
 -  🚀 Optimizing web pages.
 !  ✨ If you can imagine it, you can program it. 
-@@ 💻Solving problems from a self-built computer.@@
 ```
 
 <br>
